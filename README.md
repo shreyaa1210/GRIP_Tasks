@@ -5,4 +5,4 @@ Task 1 - Prediction Using Supervised Machine Learning
 
 Task 2 - Prediction Using Unsupervised Machine Learning
 
-Task 3 - Prediction Using Decision Tree Classifier
+Task 6 - Prediction Using Decision Tree Classifier
